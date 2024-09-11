@@ -8,3 +8,5 @@ git init
 git add [filename]
 git commit -m "message"
 git push origin main
+
+git checkout -b TestBranch
